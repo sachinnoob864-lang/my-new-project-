@@ -1,2 +1,6 @@
 this  is your project
+<<<<<<< HEAD
 ram is greatest god
+=======
+fine is this real
+>>>>>>> payment
